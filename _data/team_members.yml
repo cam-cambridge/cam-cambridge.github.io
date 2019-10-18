@@ -1,0 +1,14 @@
+- name: Sebastian Pattinson
+  photo: sebastian_pattinson.jpg
+  info: University Lecturer (Assistant Professor)
+  email: swp29@cam.ac.uk
+
+- name: Douglas Brion
+  photo: douglas_brion.jpg
+  info: PhD Student, started October 2019
+  email: dajb3@cam.ac.uk
+
+- name: Zehao Ji
+  photo: zehao_ji.jpg
+  info: PhD Student, started October 2019
+  email: zj247@cam.ac.uk
