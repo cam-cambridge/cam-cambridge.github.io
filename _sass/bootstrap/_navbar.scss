@@ -163,7 +163,7 @@
 .navbar-brand {
   float: left;
   padding: $navbar-padding-vertical $navbar-padding-horizontal;
-  font-size: $font-size-large;
+  font-size: $font-size-base;
   line-height: $line-height-computed;
   height: $navbar-height;
 
@@ -180,6 +180,7 @@
     .navbar > .container &,
     .navbar > .container-fluid & {
       margin-left: -$navbar-padding-horizontal;
+      font-size: $font-size-large;
     }
   }
 }
