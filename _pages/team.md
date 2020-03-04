@@ -8,15 +8,17 @@ permalink: /team/
 
 # Group Members
 
- **If you are interested in either a Ph.D. or postdoctoral position please get in touch! There is currently an opening for a postdoc/RA!**
+**If you are interested in either a Ph.D. or postdoctoral position please get in touch! There is currently an opening for a postdoc/RA!**
 
 ## Staff
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 
@@ -26,29 +28,34 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
+{% if member.number_educ == 1 %}
+
   <li> {{ member.education1 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 2 %}
+{% if member.number_educ == 2 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 3 %}
+{% if member.number_educ == 3 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 4 %}
+{% if member.number_educ == 4 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 5 %}
+{% if member.number_educ == 5 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
@@ -62,6 +69,7 @@ permalink: /team/
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -69,19 +77,19 @@ permalink: /team/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
-
-
-
 ## Master and Bachelor Students
+
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 
@@ -90,22 +98,26 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
+{% if member.number_educ == 1 %}
+
   <li> {{ member.education1 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 2 %}
+{% if member.number_educ == 2 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 3 %}
+{% if member.number_educ == 3 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 4 %}
+{% if member.number_educ == 4 %}
+
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
@@ -118,6 +130,7 @@ permalink: /team/
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -125,11 +138,11 @@ permalink: /team/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
-
-## Alumni
+<!-- ## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -160,9 +173,10 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 ## Former visitors, BSc/ MSc students
+
 <div class="row">
 
 <div class="col-sm-4 clearfix">
