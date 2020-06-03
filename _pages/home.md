@@ -1,7 +1,7 @@
 ---
-title: "CAM Group | Home"
+title: "Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
 layout: homelay
-excerpt: "Complex Additive Materials Group at the University of Cambridge."
+excerpt: "Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
 sitemap: false
 permalink: /
 ---
@@ -28,6 +28,7 @@ We are based at the [Institute for Manufacturing](https://ifm.eng.cam.ac.uk) in 
         </div>
         <!-- Copy more of these for more images....  -->
     </div>
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>

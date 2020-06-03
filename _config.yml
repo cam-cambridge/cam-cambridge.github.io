@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
   and materials whose structure and composition is
   optimized from the nano- to the macro-scale, to improve
   interaction with the human body and enhance lives.
-baseurl: "https://cam-cambridge.github.io/"
+baseurl: ""
 url: "https://cam-cambridge.github.io/"
 lang: en_GB
 

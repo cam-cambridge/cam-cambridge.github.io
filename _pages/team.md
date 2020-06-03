@@ -1,7 +1,7 @@
 ---
-title: "CAM Group | Team"
+title: "Team | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
 layout: gridlay
-excerpt: "CAM Group: Team members"
+excerpt: "Team | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
 sitemap: false
 permalink: /team/
 ---

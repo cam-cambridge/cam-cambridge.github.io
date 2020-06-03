@@ -1,11 +1,10 @@
 ---
-title: "CAM Group | Publications"
+title: "Publications | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
 layout: gridlay
-excerpt: "CAM Group | Publications"
+excerpt: "Publications | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
 sitemap: false
 permalink: /publications/
 ---
-
 
 # Publications
 
@@ -20,6 +19,7 @@ permalink: /publications/
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 
@@ -38,6 +38,7 @@ permalink: /publications/
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -46,18 +47,17 @@ permalink: /publications/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
 <p> &nbsp; </p>
 
-
 ## Full List
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{{ publi.title }} <br />
+<em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
