@@ -6,18 +6,25 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Complex Additive Materials Group
+title: Complex Additive Materials Group | Department of Engineering at the University of Cambridge
+tagline: >
+  Researching materials
+  chemistry, additive manufacturing, and machine learning
+  to realize entirely new devices and materials to improve
+  interaction with the human body and enhance lives.
 email: dajb3@cam.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  We are based at the Institute for Manufacturing in the
-  Department of Engineering at the University of Cambridge
-  using materials chemistry, additive manufacturing,
+  The Complex Additive Materials Group is based at the
+  Institute for Manufacturing in the Department of
+  Engineering at the University of Cambridge.
+  The group researches materials chemistry, additive manufacturing,
   and machine learning to realize entirely new devices
   and materials whose structure and composition is
-  optimized from the nano- to the macro-scale to improve
+  optimized from the nano- to the macro-scale, to improve
   interaction with the human body and enhance lives.
-baseurl: ""
-url: ""
+baseurl: "https://cam-cambridge.github.io/"
+url: "https://cam-cambridge.github.io/"
+lang: en_GB
 
 include:
   - .htaccess
@@ -33,8 +40,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -47,3 +52,5 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+plugins:
+  - jekyll-seo-tag
