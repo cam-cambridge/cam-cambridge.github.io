@@ -39,13 +39,23 @@ We are based at the [Institute for Manufacturing](https://ifm.eng.cam.ac.uk) in 
   </a>
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The group is working on:
+
+**Digitally tailored medical devices**  
+Producing wearable and implantable medical devices that better mimic and integrate with patients/wearers.
+
+**Materials for additive manufacturing**  
+Developing new materials whose structure and composition enable unique functionality.
+
+**Learning 3D printers**  
+Understanding how machine learning approaches can improve the capabilities of 3D printers.
+
 
 <br>
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge.jpg" style="height: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ifm.jpg" style="height: 60px">
+<figure class="fourth" style="margin-bottom: 50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge.jpg" style="height: 50px; float: left;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ifm.jpg" style="height: 50px; float: right;">
 </figure>
 
 <br>
