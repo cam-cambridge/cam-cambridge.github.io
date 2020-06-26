@@ -1,7 +1,7 @@
   
 - title: "Printed Materials with Locally Tailored Elasticity for Compliant Wearable and Implantable Devices"
   description:
-  authors: <b>S.W. Pattinson</b>, M.E. Huber, S. Kim, J. Lee, S. Grunsfeld, R. Roberts, G. Dreifus, C. Meier, L. Liu, N. Hogan,  A.J. Hart
+  authors: S.W. Pattinson, M.E. Huber, S. Kim, J. Lee, S. Grunsfeld, R. Roberts, G. Dreifus, C. Meier, L. Liu, N. Hogan,  A.J. Hart
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201901815
     display:  "DOI: 10.1002/adfm.201901815"
@@ -9,35 +9,42 @@
   
 - title: "Additive Manufacturing of Cellulosic Materials with Robust Mechanics and Antimicrobial Functionality"
   description:
-  authors: <b>S.W. Pattinson</b>, A.J. Hart
+  authors: S.W. Pattinson, A.J. Hart
   link:
     url: http://onlinelibrary.wiley.com/doi/10.1002/admt.201600084/abstract
     display:  "DOI: 10.1002/admt.201600084"
 
 - title: "Real-Time Environmental TEM Investigation of Self-Organization and Mechanical Competition in Carbon Nanotube Forest Growth"
   description:
-  authors: B. Viswanath, M. Bedewy, E.R. Meshot, <b>S.W. Pattinson</b>, E.S. Polsen, F. Laye, D.N. Zakharov, E.A. Stach, A.J. Hart
+  authors: B. Viswanath, M. Bedewy, E.R. Meshot, S.W. Pattinson, E.S. Polsen, F. Laye, D.N. Zakharov, E.A. Stach, A.J. Hart
   link:
     url: http://pubs.acs.org/doi/abs/10.1021/acsnano.6b07251?src=recsys
     display:  "DOI: 10.1021/acsnano.6b07251"
     
 - title: "Fast Imaging of Carbon Nanotube Growth by Environmental TEM"
   description:
-  authors: D. N. Zakharov, M. Bedewy, V. Balakrishnan, <b>S.W. Pattinson</b>, E. R. Meshot, A. J. Hart and E. A. Stach
+  authors: D. N. Zakharov, M. Bedewy, V. Balakrishnan, S.W. Pattinson, E. R. Meshot, A. J. Hart and E. A. Stach
   link:
     url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1431927615012416
     display:  "DOI: 10.1017/S1431927615012416"
 
 - title: "High-Speed Roll-to-Roll Manufacturing of Graphene using a Concentric Tube CVD Reactor"
   description:
-  authors: E. Polsen, D. McNerny, B. Viswanath, <b>S.W. Pattinson</b>, A.J. Hart
+  authors: E. Polsen, D. McNerny, B. Viswanath, S.W. Pattinson, A.J. Hart
   link:
     url: https://www.nature.com/articles/srep10257
     display:  "DOI: 10.1038/srep10257"
     
-- title: "S.W. Pattinson, B. Viswanath, D. Zakharov, J. Li, E.A. Stach, A.J. Hart"
+- title: "Mechanism and Enhanced Yield of Carbon Nanotube Growth on Stainless Steel by Oxygen-Induced Surface Reconstruction"
   description:
-  authors: E. Polsen, D. McNerny, B. Viswanath, <b>S.W. Pattinson</b>, A.J. Hart
+  authors: S.W. Pattinson, B. Viswanath, D. Zakharov, J. Li, E.A. Stach, A.J. Hart
   link:
     url: http://pubs.acs.org/doi/abs/10.1021/cm504209u
     display:  "DOI: 10.1021/cm504209u"
+
+- title: "Crystal Engineering with Graphene"
+  description:
+  authors: P. Gebhardt, S.W. Pattinson, Z. Ren, J. Elliott, D. Cooke, D. Ede
+  link:
+    url: http://pubs.rsc.org/en/content/articlelanding/2014/nr/c4nr00320a#!divAbstract
+    display:  "DOI: 10.1039/C4NR00320A "

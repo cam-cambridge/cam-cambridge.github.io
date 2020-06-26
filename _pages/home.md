@@ -39,6 +39,9 @@ We are based at the [Institute for Manufacturing](https://ifm.eng.cam.ac.uk) in 
   </a>
 </div>
 
+**Photo credits:** © Felice Frankel, research scientist, Department of Chemical Engineering at MIT
+
+
 The group is working on:
 
 **Digitally tailored medical devices**  
@@ -50,14 +53,4 @@ Developing new materials whose structure and composition enable unique functiona
 **Learning 3D printers**  
 Understanding how machine learning approaches can improve the capabilities of 3D printers.
 
-
 <br>
-
-<figure class="fourth" style="margin-bottom: 50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge.jpg" style="height: 50px; float: left;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ifm.jpg" style="height: 50px; float: right;">
-</figure>
-
-<br>
-
-**Photo credits:** © Felice Frankel, research scientist, Department of Chemical Engineering at MIT
