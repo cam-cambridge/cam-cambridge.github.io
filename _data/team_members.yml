@@ -6,18 +6,24 @@
 
 - name: Xijin Hua
   photo: xijin_hua.jpg
-  info: Research Associate in 3D Printed Orthoses
-  email: xh308@eng.cam.ac.uk
+  info: Postdoc
+  email: xh308@cam.ac.uk
   bio: Dr Xijin Hua obtained his PhD degree from the Institute of Medical and Biological Engineering (iMBE) at University of Leeds, where he worked on the stratified design, development and biomechanical analysis of orthopaedic hip implants. He was then working as a research fellow in iMBE, focusing on the biomechanical analysis of articular cartilage in natural hip joint through imaging technique, finite element analysis and parameterised modelling. Before joining the Department, he was a Marie Skłodowska-Curie Individual Fellow in the Institute for Biomechanics, ETH Zurich, working on the multiscale computational biomechanics of the musculoskeletal system, soft tissue and hip joint through coupling a multibody dynamics model of the human body, a finite element model of hip joint and articular cartilage, and a finite element model of the fluid flow within hip joint. His awards include a Fully-funded International Research Scholarship, an European Marie Skłodowska-Curie Individual Fellowship, and an Imaged-based Biomedical Modelling Fellowship.
 
+- name: Cassi Henderson
+  photo: cassi_henderson.jpg
+  info: Postdoc
+  email: cjh212@cam.ac.uk
+  bio: Cassi completed her PhD at the University of Cambridge as a joint student of the Analytical Biotechnology group in the Department of Chemical Engineering and Biotechnology and the Fluids in Advanced Manufacturing group, under the supervision of Dr Lisa Hall and Dr Ronan Daly.  Her work focused on the integration of functional materials, assay development and manufacturing design to enable biosensors to be produced for affordable, rapid, and point-of-care detection of diseases. Prior to starting her PhD, Cassi received her BSE in Bioengineering from the University of Pennsylvania and completed a Masters in Bioscience Enterprise at the University of Cambridge, focusing on the commercialization of early stage medical technologies.
+  
 - name: Douglas Brion
   photo: douglas_brion.jpg
-  info: PhD Student, started October 2019
+  info: PhD Student
   email: dajb3@cam.ac.uk
   bio: Douglas studied Electronic and Information Engineering at Imperial College London where he developed optical-based, automatic error detection systems for FFF 3D printers using traditional computer vision techniques. Following this, he developed software and tooling for 3D printers, recently developing a cloud-based platform for remote control, monitoring and data acquisition. His awards include the Royal Commission for the Exhibition of 1851 Industrial Design Scholarship, the Governors’ Prize for the outstanding BEng student in Electronic & Information Engineering and numerous project awards.
 
 - name: Zehao Ji
   photo: zehao_ji.jpg
-  info: PhD Student, started October 2019
+  info: PhD Student
   email: zj247@cam.ac.uk
   bio: Zehao graduated from the University of Sheffield with a BEng in Mechanical Engineering in 2018 and continued his studies with an MRes in Ultra Precision Manufacturing at Cambridge in October 2018. During the MRes year, Zehao did his mini-project in Online optical in-situ characterization of the FDM process.
