@@ -26,6 +26,12 @@ We are based at the [Institute for Manufacturing](https://ifm.eng.cam.ac.uk) in 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/materials.jpg" alt="Slide 1" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/printer-fleet.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/diw.jpg" alt="Slide 3" />
+        </div>
         <!-- Copy more of these for more images....  -->
     </div>
 
@@ -39,7 +45,7 @@ We are based at the [Institute for Manufacturing](https://ifm.eng.cam.ac.uk) in 
   </a>
 </div>
 
-**Photo credits:** © Felice Frankel, research scientist, Department of Chemical Engineering at MIT
+**Photo credits:** © Felice Frankel, research scientist, Department of Chemical Engineering at MIT, Douglas Brion, PhD student, Department of Engineering at University of Cambridge
 
 
 The group is working on:
