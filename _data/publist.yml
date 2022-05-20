@@ -1,4 +1,10 @@
-  
+- title: "Automated recognition and correction of warp deformation in extrusion additive manufacturing"
+  description:
+  authors: D.A.J. Brion, M. Shen, S.W. Pattinson
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2214860422002378
+    display:  "DOI: 10.1016/j.addma.2022.102838" 
+ 
 - title: "Printed Materials with Locally Tailored Elasticity for Compliant Wearable and Implantable Devices"
   description:
   authors: S.W. Pattinson, M.E. Huber, S. Kim, J. Lee, S. Grunsfeld, R. Roberts, G. Dreifus, C. Meier, L. Liu, N. Hogan,  A.J. Hart
