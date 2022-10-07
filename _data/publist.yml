@@ -1,3 +1,17 @@
+- title: "Quantitative and Real‐Time Control of 3D Printing Material Flow Through Deep Learning"
+  description:
+  authors: D.A.J. Brion, S.W. Pattinson
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200153
+    display:  "DOI: 10.1002/aisy.202200153" 
+
+- title: "Generalisable 3D printing error detection and correction via multi-head neural networks"
+  description:
+  authors: D.A.J. Brion, S.W. Pattinson
+  link:
+    url: https://www.nature.com/articles/s41467-022-31985-y
+    display:  "DOI: 10.1038/s41467-022-31985-y" 
+
 - title: "Automated recognition and correction of warp deformation in extrusion additive manufacturing"
   description:
   authors: D.A.J. Brion, M. Shen, S.W. Pattinson
